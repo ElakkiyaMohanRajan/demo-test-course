@@ -1,6 +1,6 @@
 <problem display_name="Circuit Schematic Builder Example" markdown="null">
   <p>
-  Circuit schematic problem allow students to create virtual circuits by 
+  Circuit schematic problems allow students to create virtual circuits by 
   arranging elements such as voltage sources, capacitors, resistors, and 
   MOSFETs on an interactive grid. The system evaluates a DC, AC, or 
   transient analysis of the circuit.
